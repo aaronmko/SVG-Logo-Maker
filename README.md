@@ -6,6 +6,7 @@
 * [Description](#decription)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Screenshot](#screenshot)
 * [License](#license)
 * [Contact](#contact)
 
@@ -21,6 +22,13 @@
 ## Usage
 
 * Run the application by enter <u>**node index.js**</u> in the terminal. Follow the prompted questions to generate a SVG Logo.
+
+## Screenshot
+
+![Alt text](/images/Screenshot%202023-07-13%20105105.png)
+
+[Full Walkthrough  Video](https://drive.google.com/file/d/1qrC9DA35eVsuznZRJaMW946QWXBbmLi5/view)
+
 
 ## License
 
